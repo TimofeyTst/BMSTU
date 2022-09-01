@@ -1,0 +1,2 @@
+1) Total words : 47	Correct translated : 40	Procent : 85
+-- > Your mark : 5

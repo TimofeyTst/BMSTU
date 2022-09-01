@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Lab_8_rabota.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="42"/>
+        <CursorPos Y="60"/>
+        <FoldState Value=" T322Kq"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="Lab_8_rabota.pas"/>
+        <Caret Line="3" Column="6"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Lab_8_rabota.pas"/>
+        <Caret Line="30" Column="38" TopLine="17"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Lab_8_rabota.pas"/>
+        <Caret Line="28" Column="78" TopLine="23"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Lab_8_rabota.pas"/>
+        <Caret Line="51" Column="27" TopLine="39"/>
+      </Position4>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Lab_8_rabota.pas"/>
+        <Line Value="60"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

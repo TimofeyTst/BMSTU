@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Fylik_poiska.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="7" Y="33"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="Fylik_poiska.pas"/>
+        <Caret Line="26" Column="30"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Fylik_poiska.pas"/>
+        <Caret Line="24" Column="27"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Fylik_poiska.pas"/>
+        <Caret Line="31" Column="38"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Fylik_poiska.pas"/>
+        <Caret Line="33" Column="18"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Fylik_poiska.pas"/>
+        <Caret Line="13" Column="17"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

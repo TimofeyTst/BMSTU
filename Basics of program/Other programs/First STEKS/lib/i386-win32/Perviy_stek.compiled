@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1381338394"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\ПЕРВЫЕ СТЕКИ\lib\i386-win32&quot; &quot;-FuC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\ПЕРВЫЕ СТЕКИ\&quot; &quot;-FUC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\ПЕРВЫЕ СТЕКИ\lib\i386-win32\&quot; &quot;-FEC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\ПЕРВЫЕ СТЕКИ\&quot; &quot;-oC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\ПЕРВЫЕ СТЕКИ\Perviy_stek.exe&quot; Perviy_stek.lpr"/>
+</CONFIG>

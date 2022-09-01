@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6c76d57-94c5-4b95-8fb7-b2c3d3eafd5c": {
+      "ProjectGuid": "a6c76d57-94c5-4b95-8fb7-b2c3d3eafd5c",
+      "DisplayName": "RK3",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,40 @@
+object Form1: TForm1
+  Left = 1098
+  Height = 300
+  Top = 372
+  Width = 633
+  Caption = 'Form1'
+  ClientHeight = 300
+  ClientWidth = 633
+  Color = clWhite
+  DesignTimePPI = 120
+  OnActivate = FormActivate
+  LCLVersion = '2.0.12.0'
+  object Image1: TImage
+    Left = 24
+    Height = 240
+    Top = 16
+    Width = 480
+    OnMouseDown = Image1MouseDown
+    OnMouseMove = Image1MouseMove
+    OnMouseUp = Image1MouseUp
+  end
+  object Button1: TButton
+    Left = 520
+    Height = 31
+    Top = 24
+    Width = 94
+    Caption = 'Exit'
+    OnClick = ExitClick
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 520
+    Height = 31
+    Top = 72
+    Width = 94
+    Caption = 'Clean'
+    OnClick = CleanClick
+    TabOrder = 1
+  end
+end

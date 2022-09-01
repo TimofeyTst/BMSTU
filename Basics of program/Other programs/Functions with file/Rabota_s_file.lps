@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Rabota_s_file.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="37" Y="12"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="Rabota_s_file.lpr"/>
+        <Caret Line="13" Column="27"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Rabota_s_file.lpr"/>
+        <Caret Line="2" Column="17"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Rabota_s_file.lpr"/>
+        <Caret Line="11" Column="22"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Rabota_s_file.lpr"/>
+        <Caret Line="16" Column="19"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Rabota_s_file.lpr"/>
+        <Caret Line="15" Column="31"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

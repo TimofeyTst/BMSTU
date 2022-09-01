@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="Draw_square_App.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="draw_unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="37"/>
+        <CursorPos X="26" Y="61"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\include\customimage.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <CursorPos Y="64"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4456"/>
+        <CursorPos Y="4472"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5396"/>
+        <CursorPos Y="5412"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1463"/>
+        <CursorPos Y="1478"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\lcl\lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos Y="123"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2653"/>
+        <CursorPos Y="2680"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32wsforms.pp"/>
+        <UnitName Value="Win32WSForms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="373"/>
+        <CursorPos Y="388"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32object.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="384"/>
+        <CursorPos Y="407"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+    </Units>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="53" TopLine="37"/>
+      </Position1>
+      <Position2>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="59" TopLine="37"/>
+      </Position2>
+      <Position3>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="60" TopLine="37"/>
+      </Position3>
+      <Position4>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="61" TopLine="37"/>
+      </Position4>
+      <Position5>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="62" TopLine="37"/>
+      </Position5>
+      <Position6>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="63" TopLine="37"/>
+      </Position6>
+      <Position7>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="53" TopLine="37"/>
+      </Position7>
+      <Position8>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="59" TopLine="37"/>
+      </Position8>
+      <Position9>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="60" TopLine="37"/>
+      </Position9>
+      <Position10>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="61" TopLine="37"/>
+      </Position10>
+      <Position11>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="62" TopLine="37"/>
+      </Position11>
+      <Position12>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="63" TopLine="37"/>
+      </Position12>
+      <Position13>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="53" TopLine="37"/>
+      </Position13>
+      <Position14>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="59" TopLine="37"/>
+      </Position14>
+      <Position15>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="60" TopLine="37"/>
+      </Position15>
+      <Position16>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="61" TopLine="37"/>
+      </Position16>
+      <Position17>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="62" TopLine="37"/>
+      </Position17>
+      <Position18>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="63" TopLine="37"/>
+      </Position18>
+      <Position19>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="50" Column="39" TopLine="37"/>
+      </Position19>
+      <Position20>
+        <Filename Value="draw_unit1.pas"/>
+        <Caret Line="51" Column="48" TopLine="37"/>
+      </Position20>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

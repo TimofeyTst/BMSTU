@@ -1,0 +1,11 @@
+debug/METRO_struct.o
+debug/admin.o
+debug/main.o
+debug/mainwindow.o
+debug/password.o
+debug/user.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_admin.o
+debug/moc_mainwindow.o
+debug/moc_password.o
+debug/moc_user.o

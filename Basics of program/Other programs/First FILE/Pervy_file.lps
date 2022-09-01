@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Pervy_file.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="10"/>
+        <CursorPos X="5" Y="27"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="Pervy_file.pas"/>
+        <Caret Line="22" Column="19"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Pervy_file.pas"/>
+        <Caret Line="8" Column="4"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Pervy_file.pas"/>
+        <Caret Line="10" Column="17"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Pervy_file.pas"/>
+        <Caret Line="20" Column="13"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Pervy_file.pas"/>
+        <Caret Line="14" Column="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Pervy_file.pas"/>
+        <Caret Line="20" Column="3"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Pervy_file.pas"/>
+        <Caret Line="14" Column="35"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Pervy_file.pas"/>
+        <Caret Line="40" Column="8" TopLine="7"/>
+      </Position8>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

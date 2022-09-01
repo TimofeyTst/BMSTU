@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Sortirovka_Puzirok.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="48" Y="12"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="Sortirovka_Puzirok.pas"/>
+        <Caret Line="13" Column="7"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Sortirovka_Puzirok.pas"/>
+        <Caret Line="22" Column="18"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Sortirovka_Puzirok.pas"/>
+        <Caret Line="17" Column="22" TopLine="3"/>
+      </Position3>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

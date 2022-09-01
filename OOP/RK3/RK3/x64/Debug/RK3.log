@@ -1,0 +1,6 @@
+﻿  classes.cpp
+  main.cpp
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\RK3\RK3\main.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\RK3\RK3\main.cpp(13,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  RK3.vcxproj -> C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\RK3\x64\Debug\RK3.exe

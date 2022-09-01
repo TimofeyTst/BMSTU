@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Posymbol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="18" Y="33"/>
+        <FoldState Value=" TC254 T372Fb"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="Posymbol.pas"/>
+        <Caret Line="71" Column="31" TopLine="44"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Posymbol.pas"/>
+        <Caret Line="69" Column="21" TopLine="55"/>
+      </Position2>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="5">
+      <Item1>
+        <Expression Value="first"/>
+      </Item1>
+      <Item2>
+        <Expression Value="first^.next"/>
+      </Item2>
+      <Item3>
+        <Expression Value="q"/>
+      </Item3>
+      <Item4>
+        <Expression Value="q^.next"/>
+      </Item4>
+      <Item5>
+        <Expression Value="first^.prev"/>
+      </Item5>
+    </Watches>
+  </Debugging>
+</CONFIG>

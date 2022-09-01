@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381338938"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\yarik\Desktop\Standard\BMSTU\Basics of program\Other programs\First FILE\lib\x86_64-win64&quot; &quot;-FuC:\Users\yarik\Desktop\Standard\BMSTU\Basics of program\Other programs\First FILE\&quot; &quot;-FUC:\Users\yarik\Desktop\Standard\BMSTU\Basics of program\Other programs\First FILE\lib\x86_64-win64\&quot; &quot;-FEC:\Users\yarik\Desktop\Standard\BMSTU\Basics of program\Other programs\First FILE\&quot; &quot;-oC:\Users\yarik\Desktop\Standard\BMSTU\Basics of program\Other programs\First FILE\File2.exe&quot; File2.pas"/>
+  <Complete Value="False"/>
+</CONFIG>

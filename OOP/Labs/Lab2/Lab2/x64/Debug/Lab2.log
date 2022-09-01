@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab2\Lab2\main.cpp(18,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab2\Lab2\main.cpp(8,16): warning C4101: 'v3': unreferenced local variable
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab2\Lab2\main.cpp(8,12): warning C4101: 'v2': unreferenced local variable
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab2\Lab2\main.cpp(8,20): warning C4101: 'v4': unreferenced local variable
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab2\Lab2\main.cpp(8,8): warning C4101: 'v1': unreferenced local variable
+  Lab2.vcxproj -> C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab2\x64\Debug\Lab2.exe

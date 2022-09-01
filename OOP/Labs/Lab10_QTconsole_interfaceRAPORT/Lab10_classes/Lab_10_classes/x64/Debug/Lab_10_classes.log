@@ -1,0 +1,10 @@
+﻿  Classes_pointer.cpp
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab_10_classes\Lab_10_classes\Classes_pointer.h(85,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Classes_template.cpp
+  main.cpp
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab_10_classes\Lab_10_classes\Classes_pointer.h(85,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab_10_classes\Lab_10_classes\Classes_pointer.h(168): warning C4715: 'ID_Massiv::operator[]': not all control paths return a value
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab_10_classes\Lab_10_classes\Classes_pointer.h(56): warning C4172: returning address of local variable or temporary: vrem
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab_10_classes\Lab_10_classes\Classes_pointer.h(87): warning C4172: returning address of local variable or temporary: vrem
+  Lab_10_classes.vcxproj -> C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\Labs\Lab_10_classes\x64\Debug\Lab_10_classes.exe

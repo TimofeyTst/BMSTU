@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Lab_7.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="19"/>
+        <CursorPos X="9" Y="23"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="27" HistoryIndex="26">
+      <Position1>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="36" Column="32"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="35"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="37" Column="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="16" Column="25"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="19" Column="31"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="14" Column="26"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="12" Column="4"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="13" Column="19"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="18" Column="12"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="14" Column="9"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="20" Column="16"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="17" Column="25"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="20" Column="23"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="17" Column="22"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="19" Column="23"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="18" Column="17"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="17" Column="20"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="19" Column="16"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="18" Column="16"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="6"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="19"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="37" Column="5" TopLine="19"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="33" TopLine="19"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="34" TopLine="19"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="36" Column="26" TopLine="19"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="37" Column="22" TopLine="19"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Lab_7.pas"/>
+        <Caret Line="33" TopLine="19"/>
+      </Position27>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Lab_7.pas"/>
+        <Line Value="35"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="k4"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

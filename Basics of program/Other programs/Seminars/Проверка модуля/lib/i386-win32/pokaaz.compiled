@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1381338394"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\Семинары\Проверка модуля\lib\i386-win32&quot; &quot;-FuC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\Семинары\Проверка модуля\&quot; &quot;-FUC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\Семинары\Проверка модуля\lib\i386-win32\&quot; &quot;-FEC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\Семинары\Проверка модуля\&quot; &quot;-oC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\Другие программы\Семинары\Проверка модуля\pokaaz.exe&quot; pokaaz.pas"/>
+</CONFIG>

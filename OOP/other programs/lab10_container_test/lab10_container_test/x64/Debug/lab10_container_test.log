@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\other programs\lab10_container_test\lab10_container_test\Source.cpp(84,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\other programs\lab10_container_test\lab10_container_test\Source.cpp(167): warning C4715: 'ID_Massiv::operator[]': not all control paths return a value
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\other programs\lab10_container_test\lab10_container_test\Source.cpp(55): warning C4172: returning address of local variable or temporary: vrem
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\other programs\lab10_container_test\lab10_container_test\Source.cpp(86): warning C4172: returning address of local variable or temporary: vrem
+  lab10_container_test.vcxproj -> C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\other programs\lab10_container_test\x64\Debug\lab10_container_test.exe

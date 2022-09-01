@@ -1,0 +1,173 @@
+unit Tstek;
+
+{$mode objfpc}{$H+}
+
+interface
+  uses classes,sysUtils;
+  type tip = (s1,s2);
+       point_1s=^el_1s;
+       el_1s=record
+       s:string;
+       next:point_1s;
+       end;
+       point_2s=^el_2s;
+       el_2s=record
+       s:string;
+       next:point_2s;
+       prev:point_2s;
+       end;
+  procedure sozd_1s(var first:point_1s;var c:integer);
+  procedure dispose_1s(var first:point_1s;c:integer);
+
+  procedure sozd_2s(var first:point_2s;var c:integer);
+  procedure dispose_2s(var first:point_2s;c:integer);
+
+  procedure omogus_1s(var first:point_1s);
+  procedure omogus_2s(var first:point_2s);
+
+  procedure create(var first:pointer;var c:integer;key:tip);
+  procedure clear(var first:pointer;c:integer;key:tip);
+  procedure omogus(var first:pointer;key:tip);
+
+implementation
+     procedure sozd_1s(var first:point_1s;var c:integer);
+     var q:point_1s;
+         s:string;
+         begin
+         write('Input string or "end": ');
+         readln(s);
+         c:=0;
+                   if s<>'end' then
+                   begin
+                   new(first);
+                   c:=1;
+                   first^.s:=s;
+                   first^.next:=nil;
+                   write('Input string or "end": ');
+                   readln(s);
+                   while s<>'end' do
+                         begin
+                         new(q);
+                         c:=c+1;
+                         q^.s:=s;
+                         q^.next:=first;
+                         first:=q;
+                         write('Input string or "end": ');
+                         readln(s);
+                         end;
+                   end
+                   else begin
+                        writeln('Error: Your list is empty!');
+                        readln;
+                        halt;
+                        end;
+         end;
+     procedure dispose_1s(var first:point_1s;c:integer);
+     var q:point_1s;
+         k:integer;
+     begin
+     q:=first;
+     k:=0;
+       while first<>nil do
+             begin
+             first:=first^.next;
+             dispose(q);
+             k:=k+1;
+             q:=first;
+             end;
+       if k=c then  writeln('Successfuly! Enter to end clearing')
+       else writeln('Error: not all memory was free (deleted ',k,' iz ',c,')');
+     end;
+
+     procedure sozd_2s(var first:point_2s;var c:integer);
+     var s:string;
+         begin
+              write('Input string or "end": ');
+              readln(s);
+              c:=0;
+              if s<>'end' then
+              begin
+                   new(first);
+                   c:=1;
+                   first^.s:=s;
+                   first^.next:=nil;
+                   first^.prev:=nil;
+                   write('Input string or "end": ');
+                   readln(s);
+                   while s<>'end' do
+                         begin
+                         new(first^.prev);
+                         c:=c+1;
+                         first^.prev^.s:=s;
+                         first^.prev^.next:=first;
+                         first^.prev^.prev:=nil;
+                         first:=first^.prev;
+                         write('Input string or "end": ');
+                         readln(s);
+                         end;
+              end
+              else begin
+                   writeln('Error: Your list is empty!');
+                   readln;
+                   halt;
+                   end;
+         end;
+     procedure dispose_2s(var first:point_2s;c:integer);
+     var k:integer;
+     begin
+           k:=0;
+           while first^.next<>nil do
+           begin
+           first:=first^.next;
+           dispose(first^.prev);
+           k:=k+1;
+           end;
+           dispose(first);
+           k:=k+1;
+           if k=c then  writeln('Successfuly! Enter to end clearing')
+       else writeln('Error: not all memory was free (deleted ',k,' iz ',c,')');
+      end;
+
+     procedure omogus_1s(var first:point_1s);
+     var q,predq:point_1s;
+     begin
+          q:=first;
+          predq:=nil;
+          while q^.next<>nil do
+          begin
+          predq:=q;
+          q:=q^.next;
+          end;
+          first^.s:=q^.s;
+          predq^.next:=nil;
+          dispose(q);
+     end;
+     procedure omogus_2s(var first:point_2s);
+     var q:point_2s;
+     begin
+          q:=first;
+          while q^.next<>nil do
+                q:=q^.next;
+          first^.s:=q^.s;
+          q^.prev^.next:=nil;
+          dispose(q);
+     end;
+
+     procedure create(var first:pointer;var c:integer;key:tip);
+      begin
+           if key=s1 then sozd_1s(first,c)
+           else sozd_2s(first,c);
+
+      end;
+     procedure clear(var first:pointer;c:integer;key:tip);
+      begin
+           if key=s1 then dispose_1s(first,c)
+           else dispose_2s(first,c);
+      end;
+     procedure omogus(var first:pointer;key:tip);
+     begin
+          if key=s1 then omogus_1s(first)
+          else omogus_2s(first);
+     end;
+
+end.

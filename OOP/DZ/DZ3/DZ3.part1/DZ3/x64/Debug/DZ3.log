@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DZ3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  classes.cpp
+  main.cpp
+C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\DZ\DZ3\DZ3.part1\DZ3\classes.h(90,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  DZ3.vcxproj -> C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\DZ\DZ3\DZ3.part1\x64\Debug\DZ3.part1.exe

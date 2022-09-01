@@ -1,0 +1,135 @@
+object Form3: TForm3
+  Left = 1134
+  Height = 280
+  Top = 363
+  Width = 504
+  Caption = 'Search note'
+  ClientHeight = 280
+  ClientWidth = 504
+  DesignTimePPI = 120
+  LCLVersion = '2.0.12.0'
+  object StaticText1: TStaticText
+    Left = 32
+    Height = 21
+    Top = 9
+    Width = 112
+    Caption = 'First name'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -15
+    Font.Name = 'Segoe Script'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Edit1: TEdit
+    Left = 168
+    Height = 28
+    Top = 9
+    Width = 200
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 384
+    Height = 31
+    Top = 8
+    Width = 104
+    Caption = 'Search note'
+    OnClick = Searchbut_click
+    TabOrder = 2
+  end
+  object StaticText2: TStaticText
+    Left = 32
+    Height = 21
+    Top = 88
+    Width = 112
+    Caption = 'Second name'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -15
+    Font.Name = 'Segoe Script'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 3
+  end
+  object StaticText3: TStaticText
+    Left = 32
+    Height = 21
+    Top = 136
+    Width = 112
+    Caption = 'Telephone'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -15
+    Font.Name = 'Segoe Script'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 4
+  end
+  object StaticText4: TStaticText
+    Left = 32
+    Height = 21
+    Top = 184
+    Width = 112
+    Caption = 'Adress'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -15
+    Font.Name = 'Segoe Script'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 5
+  end
+  object Edit2: TEdit
+    Left = 168
+    Height = 28
+    Top = 81
+    Width = 200
+    TabOrder = 6
+  end
+  object Edit3: TEdit
+    Left = 168
+    Height = 28
+    Top = 129
+    Width = 200
+    TabOrder = 7
+  end
+  object Edit4: TEdit
+    Left = 168
+    Height = 28
+    Top = 177
+    Width = 200
+    TabOrder = 8
+  end
+  object Button4: TButton
+    Left = 40
+    Height = 31
+    Top = 224
+    Width = 94
+    Caption = 'Menu'
+    OnClick = Menu_click
+    TabOrder = 9
+  end
+  object Button5: TButton
+    Left = 384
+    Height = 31
+    Top = 48
+    Width = 104
+    Caption = 'Clear'
+    OnClick = clear_click
+    TabOrder = 10
+  end
+  object Button1: TButton
+    Left = 224
+    Height = 31
+    Top = 224
+    Width = 94
+    Caption = 'Exit'
+    OnClick = Exit_click
+    TabOrder = 11
+  end
+end

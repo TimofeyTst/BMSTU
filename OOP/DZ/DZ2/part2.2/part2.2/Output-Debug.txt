@@ -1,0 +1,13 @@
+'part2.2.exe' (Win32): Loaded 'C:\Users\yarik\Desktop\Standard\BMSTU\2 sem\OOP\DZ\DZ2\part2.2\x64\Debug\part2.2.exe'. Symbols loaded.
+'part2.2.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'part2.2.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'part2.2.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'part2.2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'part2.2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x6fc has exited with code 0 (0x0).
+'part2.2.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'part2.2.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'part2.2.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x1574 has exited with code 0 (0x0).
+The thread 0x40e0 has exited with code 0 (0x0).
+The program '[2788] part2.2.exe' has exited with code 0 (0x0).

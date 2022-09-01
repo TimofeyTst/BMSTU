@@ -1,0 +1,81 @@
+object Form1: TForm1
+  Left = 10
+  Height = 449
+  Top = 607
+  Width = 399
+  Caption = 'Calculator'
+  ClientHeight = 449
+  ClientWidth = 399
+  DesignTimePPI = 120
+  LCLVersion = '2.0.12.0'
+  object Edit1: TEdit
+    Left = 96
+    Height = 28
+    Top = 48
+    Width = 200
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 112
+    Height = 58
+    Top = 112
+    Width = 66
+    Caption = 'Clean'
+    OnClick = CleanClick
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 208
+    Height = 58
+    Top = 112
+    Width = 66
+    Caption = '='
+    OnClick = RavClick
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 112
+    Height = 58
+    Top = 200
+    Width = 66
+    Caption = '+'
+    OnClick = SumClick
+    TabOrder = 3
+  end
+  object Button4: TButton
+    Left = 208
+    Height = 58
+    Top = 200
+    Width = 66
+    Caption = '-'
+    OnClick = RazClick
+    TabOrder = 4
+  end
+  object Button5: TButton
+    Left = 112
+    Height = 58
+    Top = 288
+    Width = 66
+    Caption = '*'
+    OnClick = ProizvClick
+    TabOrder = 5
+  end
+  object Button6: TButton
+    Left = 208
+    Height = 58
+    Top = 288
+    Width = 66
+    Caption = '/'
+    OnClick = DelClick
+    TabOrder = 6
+  end
+  object Button7: TButton
+    Left = 144
+    Height = 31
+    Top = 376
+    Width = 94
+    Caption = 'Exit'
+    OnClick = ExitClick
+    TabOrder = 7
+  end
+end

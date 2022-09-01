@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="example112.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="22" Y="2"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="12" Column="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="8" Column="22"/>
+      </Position2>
+      <Position3>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="17" Column="51"/>
+      </Position3>
+      <Position4>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="13" Column="39"/>
+      </Position4>
+      <Position5>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="16" Column="44"/>
+      </Position5>
+      <Position6>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="17"/>
+      </Position6>
+      <Position7>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="16" Column="43"/>
+      </Position7>
+      <Position8>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="17" Column="17"/>
+      </Position8>
+      <Position9>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="7" Column="32"/>
+      </Position9>
+      <Position10>
+        <Filename Value="example112.lpr"/>
+        <Caret Line="2" Column="25"/>
+      </Position10>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

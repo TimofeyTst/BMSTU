@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1381338394"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\ДЗ\DZ3\Part 2\lib\i386-win32&quot; &quot;-FuC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\ДЗ\DZ3\Part 2\&quot; &quot;-FUC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\ДЗ\DZ3\Part 2\lib\i386-win32\&quot; &quot;-FEC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\ДЗ\DZ3\Part 2\&quot; &quot;-oC:\Users\Тимофей\Desktop\Standart\Бауманка\Основы Программирования\ДЗ\DZ3\Part 2\DZ3_Part2.exe&quot; DZ3_Part2.pas"/>
+</CONFIG>

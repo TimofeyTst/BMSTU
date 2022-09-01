@@ -1,0 +1,53 @@
+object Form1: TForm1
+  Left = 761
+  Height = 193
+  Top = 384
+  Width = 339
+  Caption = 'Notebook'
+  ClientHeight = 193
+  ClientWidth = 339
+  DesignTimePPI = 120
+  LCLVersion = '2.0.12.0'
+  object Button1: TButton
+    Left = 184
+    Height = 31
+    Top = 56
+    Width = 126
+    Caption = 'Add notes'
+    OnClick = Add_notes_click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 32
+    Height = 31
+    Top = 56
+    Width = 104
+    Caption = 'Search note'
+    OnClick = Searzh_note_click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 104
+    Height = 48
+    Top = 112
+    Width = 110
+    Caption = 'Exit'
+    OnClick = Exit_click
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 104
+    Height = 36
+    Top = 8
+    Width = 108
+    Caption = 'My Notes'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -23
+    Font.Name = 'Segoe Script'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+end

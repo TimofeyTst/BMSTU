@@ -1,0 +1,42 @@
+object Password: TPassword
+  Left = 792
+  Height = 77
+  Top = 465
+  Width = 232
+  Caption = 'Password'
+  ClientHeight = 77
+  ClientWidth = 232
+  Color = clMenuHighlight
+  DesignTimePPI = 120
+  OnShow = FormShow
+  LCLVersion = '2.0.12.0'
+  object Edit1: TEdit
+    Left = 72
+    Height = 28
+    Top = 32
+    Width = 100
+    AutoSelect = False
+    EchoMode = emPassword
+    OnKeyUp = Edit1KeyUp
+    ParentColor = True
+    PasswordChar = '*'
+    TabOrder = 1
+  end
+  object Label1: TLabel
+    Left = 72
+    Height = 20
+    Top = 8
+    Width = 99
+    Caption = 'Input Password'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 8
+    Height = 28
+    Top = 32
+    Width = 38
+    Caption = 'Back'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+end

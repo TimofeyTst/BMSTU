@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="VvodMatric.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="5"/>
+        <CursorPos X="12" Y="53"/>
+        <FoldState Value=" T3O05 T1W0E{"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="VvodMatric.pas"/>
+        <Caret Line="53" Column="12"/>
+      </Position1>
+      <Position2>
+        <Filename Value="VvodMatric.pas"/>
+        <Caret Line="22" Column="19"/>
+      </Position2>
+      <Position3>
+        <Filename Value="VvodMatric.pas"/>
+        <Caret Line="23" Column="6"/>
+      </Position3>
+      <Position4>
+        <Filename Value="VvodMatric.pas"/>
+        <Caret Line="22" Column="35"/>
+      </Position4>
+      <Position5>
+        <Filename Value="VvodMatric.pas"/>
+        <Caret Line="18" Column="29"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

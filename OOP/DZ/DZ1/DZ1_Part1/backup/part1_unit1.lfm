@@ -1,0 +1,128 @@
+object Form1: TForm1
+  Left = 1112
+  Height = 562
+  Top = 180
+  Width = 767
+  Caption = 'Form1'
+  ClientHeight = 562
+  ClientWidth = 767
+  Color = clHighlight
+  DesignTimePPI = 120
+  OnActivate = FormActivate
+  LCLVersion = '2.0.12.0'
+  object Button1: TButton
+    Left = 48
+    Height = 32
+    Top = 488
+    Width = 110
+    Caption = 'Exit'
+    OnClick = ExitClick
+    TabOrder = 0
+  end
+  object Image1: TImage
+    Left = 40
+    Height = 432
+    Top = 8
+    Width = 680
+    OnMouseDown = Image1MouseDown
+    OnMouseMove = Image1MouseMove
+    OnMouseUp = Image1MouseUp
+  end
+  object Edit1: TEdit
+    Left = 312
+    Height = 28
+    Top = 472
+    Width = 100
+    OnChange = Edit1Change
+    TabOrder = 1
+    Text = '10'
+  end
+  object UpDown1: TUpDown
+    Left = 412
+    Height = 28
+    Top = 472
+    Width = 21
+    Associate = Edit1
+    Min = 0
+    Position = 10
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 634
+    Height = 31
+    Top = 485
+    Width = 94
+    Caption = 'Clean'
+    OnClick = Button2Click
+    TabOrder = 3
+  end
+  object RadioButton1: TRadioButton
+    Left = 464
+    Height = 24
+    Top = 472
+    Width = 51
+    Caption = 'Line'
+    OnClick = RadioButton1Click
+    TabOrder = 4
+  end
+  object RadioButton2: TRadioButton
+    Left = 464
+    Height = 24
+    Top = 504
+    Width = 126
+    Caption = 'Line with round'
+    OnClick = RadioButton2Click
+    TabOrder = 5
+  end
+  object Edit2: TEdit
+    Left = 312
+    Height = 28
+    Top = 512
+    Width = 100
+    OnChange = Edit2Change
+    TabOrder = 6
+    Text = '4'
+  end
+  object UpDown2: TUpDown
+    Left = 412
+    Height = 28
+    Top = 512
+    Width = 21
+    Associate = Edit2
+    Min = 0
+    Position = 4
+    TabOrder = 7
+  end
+  object Label1: TLabel
+    Left = 232
+    Height = 19
+    Top = 476
+    Width = 63
+    Caption = 'Pen width'
+    Color = clHighlight
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -15
+    Font.Name = 'Tempus Sans ITC'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+    Transparent = False
+  end
+  object Label2: TLabel
+    Left = 211
+    Height = 19
+    Top = 512
+    Width = 84
+    Caption = 'Radius round'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -15
+    Font.Name = 'Tempus Sans ITC'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+end

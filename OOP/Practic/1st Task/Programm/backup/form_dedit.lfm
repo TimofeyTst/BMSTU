@@ -1,0 +1,332 @@
+object Access: TAccess
+  Left = 1346
+  Height = 631
+  Top = 75
+  Width = 564
+  Caption = 'Access'
+  ClientHeight = 631
+  ClientWidth = 564
+  Color = clHotLight
+  DesignTimePPI = 120
+  OnShow = FormShow
+  LCLVersion = '2.0.12.0'
+  object Button1: TButton
+    Left = 112
+    Height = 31
+    Top = 8
+    Width = 126
+    Caption = 'Add to data'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 384
+    Height = 31
+    Top = 8
+    Width = 128
+    Caption = 'Delete after'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 216
+    Height = 31
+    Top = 317
+    Width = 124
+    Caption = 'CLEAR data'
+    Color = clRed
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -15
+    Font.Name = 'Stencil'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button3Click
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 160
+    Height = 28
+    Top = 320
+    Width = 38
+    Caption = 'Back'
+    OnClick = Button4Click
+    TabOrder = 3
+  end
+  object Edit1: TEdit
+    Left = 184
+    Height = 28
+    Top = 48
+    Width = 144
+    Alignment = taCenter
+    NumbersOnly = True
+    TabOrder = 4
+  end
+  object Edit2: TEdit
+    Left = 184
+    Height = 28
+    Top = 88
+    Width = 144
+    Alignment = taCenter
+    TabOrder = 5
+  end
+  object Edit3: TEdit
+    Left = 184
+    Height = 28
+    Top = 128
+    Width = 144
+    Alignment = taCenter
+    NumbersOnly = True
+    TabOrder = 6
+  end
+  object Edit4: TEdit
+    Left = 184
+    Height = 28
+    Top = 168
+    Width = 144
+    Alignment = taCenter
+    NumbersOnly = True
+    TabOrder = 7
+  end
+  object Label1: TLabel
+    Left = 24
+    Height = 20
+    Top = 56
+    Width = 152
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Inventory number'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = 'Tw Cen MT Condensed Extra Bold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 24
+    Height = 20
+    Top = 90
+    Width = 152
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Model'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = 'Tw Cen MT Condensed'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 24
+    Height = 20
+    Top = 128
+    Width = 152
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Year production'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = 'Tw Cen MT Condensed Extra Bold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 24
+    Height = 20
+    Top = 168
+    Width = 152
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Life time in years'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = 'Tw Cen MT Condensed Extra Bold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Button5: TButton
+    Left = 216
+    Height = 31
+    Top = 216
+    Width = 94
+    Caption = 'Add to end'
+    OnClick = Button5Click
+    TabOrder = 8
+  end
+  object Button6: TButton
+    Left = 56
+    Height = 31
+    Top = 216
+    Width = 94
+    Caption = 'Add after'
+    OnClick = Button6Click
+    TabOrder = 9
+  end
+  object Edit5: TEdit
+    Left = 88
+    Height = 28
+    Top = 256
+    Width = 54
+    Alignment = taCenter
+    NumbersOnly = True
+    TabOrder = 10
+  end
+  object Label5: TLabel
+    Left = 16
+    Height = 20
+    Top = 264
+    Width = 72
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Position'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = 'Tw Cen MT Condensed Extra Bold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Button7: TButton
+    Left = 152
+    Height = 28
+    Top = 256
+    Width = 37
+    Caption = 'ok'
+    OnClick = Button7Click
+    TabOrder = 11
+  end
+  object Label6: TLabel
+    Left = 344
+    Height = 20
+    Top = 56
+    Width = 72
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Position'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = 'Tw Cen MT Condensed Extra Bold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Edit6: TEdit
+    Left = 424
+    Height = 28
+    Top = 48
+    Width = 54
+    Alignment = taCenter
+    NumbersOnly = True
+    TabOrder = 12
+  end
+  object Button8: TButton
+    Left = 496
+    Height = 28
+    Top = 64
+    Width = 37
+    Caption = 'ok'
+    OnClick = Button8Click
+    TabOrder = 13
+  end
+  object Label7: TLabel
+    Left = 344
+    Height = 20
+    Top = 88
+    Width = 72
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Count'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -17
+    Font.Name = 'Tw Cen MT Condensed Extra Bold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Edit7: TEdit
+    Left = 424
+    Height = 28
+    Top = 80
+    Width = 54
+    Alignment = taCenter
+    NumbersOnly = True
+    TabOrder = 14
+    Text = '1'
+  end
+  object Button9: TButton
+    Left = 272
+    Height = 31
+    Top = 8
+    Width = 70
+    Caption = 'Change'
+    OnClick = Button9Click
+    TabOrder = 15
+  end
+  object Button10: TButton
+    Left = 360
+    Height = 31
+    Top = 317
+    Width = 104
+    Caption = 'View all data'
+    OnClick = Button10Click
+    TabOrder = 16
+  end
+  object StringGrid1: TStringGrid
+    Left = 88
+    Height = 256
+    Top = 352
+    Width = 408
+    AutoEdit = False
+    Color = clDefault
+    ColumnClickSorts = True
+    Flat = True
+    ParentBiDiMode = False
+    RowCount = 1000
+    TabOrder = 17
+    ColWidths = (
+      27
+      129
+      93
+      64
+      77
+    )
+    Cells = (
+      5
+      0
+      0
+      '№'
+      1
+      0
+      'Inventory number'
+      2
+      0
+      'Model'
+      3
+      0
+      'Year'
+      4
+      0
+      'Life time'
+    )
+  end
+end

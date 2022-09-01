@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Perviy_stek.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="15" Y="3"/>
+        <FoldState Value=" TC353 T372P112M"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="102" TopLine="53"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="103" TopLine="53"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="104" TopLine="53"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="105" Column="7" TopLine="53"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="106" TopLine="53"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="107" TopLine="53"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="108" TopLine="53"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="110" TopLine="53"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="111" TopLine="53"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="110" TopLine="53"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="111" TopLine="53"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="102" Column="15" TopLine="53"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="129" TopLine="100"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="101" TopLine="53"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="102" TopLine="53"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="103" TopLine="53"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="104" TopLine="53"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="105" TopLine="53"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="106" TopLine="53"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="107" TopLine="53"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="108" TopLine="53"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="109" TopLine="53"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="111" TopLine="53"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="112" TopLine="53"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="111" TopLine="53"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="112" TopLine="53"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="114" TopLine="53"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="115" TopLine="53"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="116" TopLine="53"/>
+      </Position29>
+      <Position30>
+        <Filename Value="Perviy_stek.lpr"/>
+        <Caret Line="117" TopLine="53"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Perviy_stek.lpr"/>
+        <Line Value="69"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="5">
+      <Item1>
+        <Expression Value="q"/>
+      </Item1>
+      <Item2>
+        <Expression Value="first"/>
+      </Item2>
+      <Item3>
+        <Expression Value="posle"/>
+      </Item3>
+      <Item4>
+        <Expression Value="q^.next"/>
+      </Item4>
+      <Item5>
+        <Expression Value="first^.next"/>
+      </Item5>
+    </Watches>
+  </Debugging>
+</CONFIG>

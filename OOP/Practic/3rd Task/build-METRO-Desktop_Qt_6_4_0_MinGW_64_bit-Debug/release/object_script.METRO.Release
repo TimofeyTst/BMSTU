@@ -1,0 +1,11 @@
+release/METRO_struct.o
+release/admin.o
+release/main.o
+release/mainwindow.o
+release/password.o
+release/user.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_admin.o
+release/moc_mainwindow.o
+release/moc_password.o
+release/moc_user.o
